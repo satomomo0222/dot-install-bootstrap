@@ -1,1 +1,1 @@
-# dot-install-bootstrap
+ドットインストールでBootstrapを学習
